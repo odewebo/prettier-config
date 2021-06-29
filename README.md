@@ -1,4 +1,4 @@
-# odewebo / prettier
+# odewebo / prettier-config
 
 odewebo package contains prettier configuration
 
