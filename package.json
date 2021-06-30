@@ -1,6 +1,6 @@
 {
   "name": "@odewebo/prettier-config",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "odewebo prettier configuration",
   "main": ".prettierrc.json",
   "private": false,
